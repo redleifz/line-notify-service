@@ -1,0 +1,18 @@
+LineNotifyToken=
+PORT=
+
+# schedule syntax
+# * * * * *
+# | | | | |
+# | | | | +----- Day of the week (0 - 7) (Sunday = 0 or 7)
+# | | | +------- Month (1 - 12)
+# | | +--------- Day of the month (1 - 31)
+# | +----------- Hour (0 - 23)
+# +------------- Minute (0 - 59)
+
+# SET SCHEDULE HERE
+SCHEDULE_1=52 10 * * *
+SCHEDULE_2=53 10 * * *
+SCHEDULE_3=54 10 * * *
+SCHEDULE_4=55 10 * * *
+SCHEDULE_5=56 10 * * *
